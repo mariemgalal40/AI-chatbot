@@ -6,7 +6,7 @@ Welcome to **Your Smart Assistant** — an AI-powered PDF assistant that lets yo
 
 ## 🎥 Demo
 
-![Demo](https://raw.githubusercontent.com/mariemgalal40/AI-chatbot/rag_llama3.gif.gif)
+![Demo](https://raw.githubusercontent.com/mariemgalal40/AI-chatbot/rag_llama3.gif)
 
 > 📌 This video shows how the assistant works end-to-end. Try it yourself!
 
