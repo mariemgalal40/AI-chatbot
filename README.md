@@ -1,6 +1,6 @@
 # 📄 Your Smart Assistant is Here
 
-Welcome to **Your Smart Assistant** — an AI-powered PDF assistant that lets you upload a PDF, ask questions about its content, and receive smart answers with highlighted references from the document.
+Welcome to **Your Smart Assistant** — an AI-powered PDF assistant that lets you upload a PDF, ask questions about its content, and receive smart answers.
 
 ---
 
